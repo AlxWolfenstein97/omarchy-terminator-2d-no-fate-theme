@@ -1,0 +1,37 @@
+mode = "dark"
+
+# NO FATE pack — T-800 eye red + plasma cyan on midnight Skynet void.
+# Loud accent for Limine / borders; pastel ANSI + lifted darker_background
+# for OmaVT/TTY (same slot split as Doom Eternal / Asphalt / HEV / Caged / KI / MGR / Stanley / SF6).
+accent = "#FF1A1A"
+selection = "#2A1018"
+muted = "#6A6878"
+
+background = "#0A0E18"
+dark_background = "#06080E"
+darker_background = "#10141E"
+lighter_background = "#161C28"
+
+foreground = "#E8ECF0"
+dark_foreground = "#6A6878"
+light_foreground = "#C0C4D0"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(FF1A1Aee) rgba(4EC8FFee) 45deg"
+hyprland_inactive_border = "rgba(2A1018aa)"
+
+red = "#FF6B78"
+yellow = "#FFE066"
+orange = "#FF8A40"
+green = "#6ACC7A"
+cyan = "#4EC8FF"
+blue = "#5A8ADA"
+magenta = "#FF5A8A"
+brown = "#8A5A48"
+
+bright_red = "#FF9A9A"
+bright_yellow = "#FFF099"
+bright_green = "#90E0A0"
+bright_cyan = "#80E0FF"
+bright_blue = "#88A8E8"
+bright_magenta = "#FF90B8"

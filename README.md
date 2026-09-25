@@ -122,7 +122,7 @@ lives glyph (same silhouette DNA as the in-game counter, no empty lines).
 ### Unlock
 
 Style → Unlock → pick this theme (`unlock.png` / `preview-unlock.png`).
-Password field in eye-red. Come with me if you want to unlock.
+Come with me if you want to unlock.
 
 ## Extend further with plugins
 

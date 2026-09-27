@@ -6,10 +6,8 @@ the windows, and got out before Judgment Day noticed. John should be able to
 destroy it in the future. Hopefully. For now we listen to FutureCast on our
 hypr systems through cliamp while we tile everything. What if your desktop
 matched Bitmap Bureau’s *Terminator 2D: NO FATE* **T-800 eye red → plasma
-cyan** on a midnight Skynet void instead of another flat dark mode? Same
-dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016,
-Eternal, Caged, KI, Rising, Stanley & SF6 — different timeline. No fate but
-what we rice.
+cyan** on a midnight Skynet void instead of another flat dark mode? Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Rising, Stanley, SF6 & USFIV —
+different timeline. No fate but what we rice.
 
 Arcade run-and-gun theme for [Omarchy](https://omarchy.org/). Inspired by the
 look of *Terminator 2D: NO FATE* — **not affiliated with Bitmap Bureau, Reef

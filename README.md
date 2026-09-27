@@ -32,8 +32,9 @@ backgrounds the same way as
 [Killer Instinct](https://github.com/AlxWolfenstein97/omarchy-killer-instinct-theme),
 [Metal Gear Rising](https://github.com/AlxWolfenstein97/omarchy-metal-gear-rising-theme),
 [Stanley Parable](https://github.com/AlxWolfenstein97/omarchy-stanley-parable-theme),
+[Street Fighter 6](https://github.com/AlxWolfenstein97/omarchy-street-fighter-6-theme),
 and
-[Street Fighter 6](https://github.com/AlxWolfenstein97/omarchy-street-fighter-6-theme).
+[Ultra Street Fighter IV](https://github.com/AlxWolfenstein97/omarchy-ultra-street-fighter-iv-theme).
 
 <p align="center">
   <img src="logo.png" alt="Terminator 2D: NO FATE wordmark used for unlock / README" width="420" />
@@ -166,8 +167,10 @@ omarchy plugin add https://github.com/AlxWolfenstein97/omatty.git --enable --yes
 ```
 
 **Boom-out — one paste.** Teardown + ledger pkg drop + plugin remove.
-`--purge-tombstones` also clears Style quiet-install stamps (same-session re-arm
-needs a loud install otherwise — why lives on the plugin READMEs).
+Ledger drops only what we recorded pulling; may fail and stay if something else
+still needs the package (e.g. Goverlay after Pillow) — fine. `--purge-tombstones`
+also clears Style quiet-install stamps (same-session re-arm needs a loud install
+otherwise — why lives on the plugin READMEs).
 Abort mission. Clean exit.
 
 ```bash

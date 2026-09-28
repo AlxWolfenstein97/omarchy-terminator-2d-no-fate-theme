@@ -3,7 +3,7 @@
 There is no fate but what we make — and we made a theme. Based on the game.
 Based on the movie. We hacked into Skynet for a bit, pulled the palette, tiled
 the windows, and got out before Judgment Day noticed. John should be able to
-destroy it in the future. Hopefully. For now we listen to FutureCast on our
+destroy it in the future. Hopefully. For now we listen to Featurecast on our
 hypr systems through cliamp while we tile everything. What if your desktop
 matched Bitmap Bureau’s *Terminator 2D: NO FATE* **T-800 eye red → plasma
 cyan** on a midnight Skynet void instead of another flat dark mode? Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Rising, Stanley, SF6 & USFIV —
@@ -75,7 +75,7 @@ cp ~/.config/omarchy/themes/terminator-2d-no-fate/about.txt ~/.config/omarchy/br
 cp ~/.config/omarchy/themes/terminator-2d-no-fate/screensaver.txt ~/.config/omarchy/branding/screensaver.txt
 ```
 
-Cycle wallpapers with `omarchy theme bg next`. Keep FutureCast in cliamp.
+Cycle wallpapers with `omarchy theme bg next`. Keep Featurecast in cliamp.
 Keep tiling. The rest is resistance.
 
 ## What’s in the pack
@@ -133,7 +133,7 @@ stock pipeline if they prefer. Hack the periphery if you want. John handles
 the core later.
 
 They do **not** depend on each other. Pick what you want; run the whole
-inch-a-lada if you want the desktop to feel like yours. cliamp FutureCast in
+inch-a-lada if you want the desktop to feel like yours. cliamp Featurecast in
 one terminal, btop in another, tile until the machines blink first.
 
 ### The big sweep

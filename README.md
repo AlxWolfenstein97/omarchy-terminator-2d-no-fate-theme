@@ -125,7 +125,7 @@ Come with me if you want to unlock.
 
 ## Extend further with plugins
 
-This repo is **palette + assets** on purpose. Omarchy already colour-coordinates
+This repo is **palette + assets** on purpose. Omarchy already color-coordinates
 the shell, terminals, and editor from `colors.toml`. The plugins below push that
 idea as far as it can reasonably go — optional extenders, not required theme
 baggage. Themes keep working without them; authors can stick to the snappier
@@ -143,8 +143,8 @@ one terminal, btop in another, tile until the machines blink first.
 | **[Chroma](https://github.com/AlxWolfenstein97/chroma)** | GTK3 / GTK4 / libadwaita + Qt |
 | **[OmaOBS](https://github.com/AlxWolfenstein97/omaobs)** | OBS Studio (real Yami `Omarchy.ovt`) |
 | **[OmaCursor](https://github.com/AlxWolfenstein97/omacursor)** | Pointer / Adwaita XCursor recolor (+ optional SDDM) |
-| **[OmaHud](https://github.com/AlxWolfenstein97/omahud)** | MangoHud colours only — live in-game retint |
-| **[OmaBoot](https://github.com/AlxWolfenstein97/omaboot)** | Limine boot menu colours |
+| **[OmaHud](https://github.com/AlxWolfenstein97/omahud)** | MangoHud colors only — live in-game retint |
+| **[OmaBoot](https://github.com/AlxWolfenstein97/omaboot)** | Limine boot menu colors |
 | **[OmaVT](https://github.com/AlxWolfenstein97/omavt)** | Virtual console / TTY palette |
 | **[OmaTTY](https://github.com/AlxWolfenstein97/omatty)** | Console font (Terminus-first, accessibility) |
 
@@ -194,7 +194,7 @@ Browse more on the [Omarchy Plugins](https://plugins.omarchy.org/) site.
 
 ## Taste
 
-Colours and contrast are tuned for what I like to look at — loud red, cold
+Colors and contrast are tuned for what I like to look at — loud red, cold
 void, cyan when the plasma hits. If they feel wrong for you, fork and retune
 `colors.toml` without guilt. There is no fate but what we hex.
 
